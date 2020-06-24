@@ -1,9 +1,3 @@
-# SquareCube.py
-# Author: Jared Buehner
-# Class: SDEV 300
-# Professor: Muhammad Khan
-# Date: 06/08/2020
-
 # Imports.
 import math
 import sys
